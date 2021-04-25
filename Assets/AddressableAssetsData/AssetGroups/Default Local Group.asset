@@ -18,7 +18,25 @@ MonoBehaviour:
   m_GUID: 5a61b032eb361494e94d15a644892994
   m_SerializeEntries:
   - m_GUID: c0ce37b52ae942041a59068c28a01864
-    m_Address: Assets/Scenes/In.unity
+    m_Address: Assets/Scenes/Main.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 796573fb4b012b145b86858ec5c8260e
+    m_Address: Assets/Scenes/Final.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b0d0f6734558862458f785b80b166f77
+    m_Address: Assets/Scenes/MainMenu.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 512b6b6e4b55192478ae6d641aedaa65
+    m_Address: Assets/Scenes/Intro.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
